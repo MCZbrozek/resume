@@ -1,0 +1,221 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Michael C. Zbrozek Jr",
+    "label": "Full Stack Developer",
+    "image": "https://lh3.googleusercontent.com/a/ALm5wu0EUBYWV7-ILTDGkjAZEw0MwGxCCk-DI4bs6DozpfQ=s288-p-rw-no",
+    "email": "MCZbrozek@gmail.com",
+    "phone": "(303) 895-7521",
+    "url": "http://MikeZbrozek.com",
+    "summary": "",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Albuquerque",
+      "countryCode": "US",
+      "region": "New Mexico"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Michael Zbrozek",
+        "url": "https://www.linkedin.com/in/michaelzbrozek"
+      },
+      {
+        "network": "Github",
+        "username": "Michael Zbrozek",
+        "url": "https://github.com/MCZbrozek"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Strava",
+      "location": "Remote",
+      "description": "The social app for athletes",
+      "position": "Engineering Intern, Full Stack",
+      "url": "http://www.strava.com",
+      "startDate": "2022-06",
+      "endDate": "2022-09",
+      "summary": "Full stack developer intern, focused on migrating web pages from a Ruby on Rails monorepo to React micro-frontend architecture. Back end API development with Ruby/Scala/Thrift.",
+      "highlights": [
+        "Created micro-frontend components in React to interface with Contentful (content management system)",
+        "Reviewed PRs in github, utilized Canary testing on production data and merged/deployed code from inhouse continuous integration application “Butler”",
+        "Removed redundant formatter files and used NPM to publish formatters into React hooks package",
+        "Designed API endpoints to support partner media and increase partner engagement in the Strava activity feed. "
+      ]
+    },
+    {
+      "name": "Deep Dive Coding, CNM Ingenuity",
+      "location": "Remote",
+      "description": "Full Stack JavaScript / React / Node Bootcamp",
+      "position": "Bootcamp Mentor / Tutor",
+      "url": "",
+      "startDate": "2022-04",
+      "endDate": "",
+      "summary": " Provide tutoring support to current bootcamp students to create web based applications with React, Node, Express and PostgreSQL.",
+      "highlights": [
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Google Developers Group, Albuquerque",
+      "position": "Co-Organizer",
+      "url": "https://gdg.community.dev/gdg-albuquerque/",
+      "startDate": "2022-09",
+      "endDate": "",
+      "summary": "Unifying the developer community by building partnerships with local businesses, programming workshops and organizing social gatherings for developers in Albuquerque.",
+      "highlights": [
+      ]
+    },
+    {
+      "organization": "Deep Dive Coding",
+      "position": "Alumni Commitee Organizer",
+      "url": "",
+      "startDate": "2022-04",
+      "endDate": "",
+      "summary": "Organize community events to promote networking opportunities for bootcamp graduates.",
+      "highlights": [
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Deep Dive Coding - CNM Ingenuity",
+      "url": "https://deepdivecoding.com/fullstack-web-development/",
+      "area": "JavaScript / React / Node / mySQL",
+      "studyType": "Bootcamp",
+      "startDate": "2022-01",
+      "endDate": "2022-03",
+      "score": "",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Fort Lewis College",
+      "url": "",
+      "area": "Geology",
+      "studyType": "Bachelors",
+      "startDate": "",
+      "endDate": "2011-12",
+      "score": "",
+      "courses": [
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "publications": [
+    {
+      
+    }
+  ],
+  "skills": [
+    {
+      "name": "Front end",
+      "level": "Junior",
+      "keywords": [
+         "JavaScript",
+         "TypeScript",
+         "React",
+         "Next.js",
+         "Content Management System Integration",
+         "Sass/Css"
+      ]
+    },
+    {
+      "name": "Back end",
+      "level": "Junior",
+      "keywords": [
+        "Node.js",
+        "Ruby on Rails",
+        "Express",
+        "mySQL / PostgreSQL",
+        "Python",
+        "Docker"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Ultra Distance Running",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    },
+    {
+      "name": "Ultra Distance Running",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Elisa Valdez de Ramírez - Software Engineering Manager",
+      "reference":  "“I had the great fortune of managing Michael during his internship at Strava. Throughout that time he demonstrated an ability to learn and adapt quickly, thriving in the ambiguity that comes with starting at a new company and learning the ropes of how things work there. He is incredibly hard working, dedicated to constant growth, and a general joy to be around. Myself and all of his teammates really enjoyed having him on the team. Technically, Michael tackled two large projects during his internship. One on the frontend, public facing website and the other on the server side as part of our public API made available to partners. In both projects he helped scope, design, and implement work in several areas of Strava's code bases. He took on learning new languages, frameworks, and architecture patterns with eagerness and enthusiasm, walking that line of knowing when to ask to help but trying all solutions before he reached out. His contributions have made an impact to Strava as a company and the team(s) he worked with.”"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Abq Tool Shed",
+      "description": "Peer to peer tool lending",
+      "highlights": [
+        "Bootcamp capstone project",
+        "Backend - TypeScript / Node / mySQL / Express / Docker",
+        "frontend - JavaScript / React / Redux / Axios"
+      ],
+      "keywords": [
+      ],
+      "startDate": "",
+      "endDate": "",
+      "url": "https://bit.ly/ABQToolshed",
+      "roles": [
+        "Team lead",
+        "Designer"
+      ],
+      "entity": "",
+      "type": " web application"
+    },
+    {
+      "name": "Feeble Minded Football",
+      "description": "Fantasy football league blog",
+      "highlights": [
+        "Bootcamp capstone project",
+        "Backend - TypeScript / Node / mySQL / Express / Docker",
+        "frontend - JavaScript / React / Redux / Axios"
+      ],
+      "keywords": [
+      ],
+      "startDate": "",
+      "endDate": "",
+      "url": "https://bit.ly/ABQToolshed",
+      "roles": [
+        "Team lead",
+        "Designer"
+      ],
+      "entity": "",
+      "type": " web application"
+    }
+  ],
+  "meta": {
+    "canonical": "",
+    "version": "",
+    "lastModified": ""
+  }
+}
