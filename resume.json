@@ -12,8 +12,8 @@
       "address": "",
       "postalCode": "",
       "city": "Albuquerque",
-      "countryCode": "US",
-      "region": "New Mexico"
+      "countryCode": "New Mexico, US",
+      "region": ""
     },
     "profiles": [
       {
