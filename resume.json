@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
-    "name": "Michael C. Zbrozek Jr",
+    "name": "Michael C. Zbrozek",
     "label": "Full Stack Developer",
     "image": "https://lh3.googleusercontent.com/a/ALm5wu0EUBYWV7-ILTDGkjAZEw0MwGxCCk-DI4bs6DozpfQ=s288-p-rw-no",
     "email": "MCZbrozek@gmail.com",
@@ -183,7 +183,7 @@
     },
     {
       "name": "Fantasy football league blog",
-      "description": "Experiment for toying with fantasy league data analytics using Python, Jupyter Notebooks, NumPy and Seaborn",
+      "description": "Fantasy league blog for learning data analytics with Python, NumPy and Seaborn",
       "highlights": [
         "Frontend - JavaScript / React / Next.JS",
         "Content managed with Sanity.io"
