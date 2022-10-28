@@ -33,14 +33,14 @@
       "name": "Strava",
       "location": "Remote",
       "description": "The social app for athletes",
-      "position": "Engineering Intern, Full Stack",
+      "position": "Engineering Intern - Full Stack",
       "url": "http://www.strava.com",
       "startDate": "2022-06",
       "endDate": "2022-09",
       "summary": "Summer internship focused on page migration with React, and API development with Ruby on Rails.",
       "highlights": [
         "Created React micro-frontend components to interface with a content management system.",
-        "Learned CI best practices, using Canary testing on production data, merged/deployed code from inhouse continuous integration application “Butler”.",
+        "Learned CI best practices, using Canary testing on production data, merged/deployed code from continuous integration application, “Butler”.",
         "Published language formatters into React hooks package with NPM to reduce app bundle sizes.",
         "Designed API endpoints with Ruby on Rails to support partner media and increase engagement in the Strava activity feed."
       ]
