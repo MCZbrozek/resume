@@ -37,12 +37,12 @@
       "url": "http://www.strava.com",
       "startDate": "2022-06",
       "endDate": "2022-09",
-      "summary": "Full stack developer intern, focused on migrating web pages from a Ruby on Rails monorepo to React micro-frontend architecture. Back end API development with Ruby/Scala/Thrift.",
+      "summary": "Summer internship focused on page migration with React, and API development with Ruby on Rails.",
       "highlights": [
-        "Created micro-frontend components in React to interface with Contentful (content management system)",
-        "Reviewed PRs in github, utilized Canary testing on production data and merged/deployed code from inhouse continuous integration application “Butler”",
-        "Removed redundant formatter files and used NPM to publish formatters into React hooks package",
-        "Designed API endpoints to support partner media and increase partner engagement in the Strava activity feed. "
+        "Created React micro-frontend components to interface with a content management system.",
+        "Learned CI best practices, using Canary testing on production data, merged/deployed code from inhouse continuous integration application “Butler”.",
+        "Published language formatters into React hooks package with NPM to reduce app bundle sizes.",
+        "Designed API endpoints with Ruby on Rails to support partner media and increase engagement in the Strava activity feed."
       ]
     },
     {
@@ -65,7 +65,7 @@
       "url": "https://gdg.community.dev/gdg-albuquerque/",
       "startDate": "2022-09",
       "endDate": "",
-      "summary": "Unifying the developer community by building partnerships with local businesses, programming workshops and organizing social gatherings for developers in Albuquerque.",
+      "summary": "Unifying the Albuquerque developer community by building partnerships with local businesses, organizing technical presentations and social gatherings for developers in Albuquerque.",
       "highlights": [
       ]
     },
@@ -85,7 +85,7 @@
       "institution": "Deep Dive Coding - CNM Ingenuity",
       "url": "https://deepdivecoding.com/fullstack-web-development/",
       "area": "JavaScript / React / Node / mySQL",
-      "studyType": "Bootcamp",
+      "studyType": "400 Hour, fully remote Bootcamp",
       "startDate": "",
       "endDate": "2022-03",
       "score": "",
@@ -104,19 +104,7 @@
       ]
     }
   ],
-  "awards": [
-    {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": ""
-    }
-  ],
-  "publications": [
-    {
-      
-    }
-  ],
+  
   "skills": [
     {
       "name": "Front end",
@@ -179,7 +167,7 @@
       "highlights": [
         "Bootcamp capstone project",
         "Backend - TypeScript / Node / mySQL / Express / Docker",
-        "frontend - JavaScript / React / Redux / Axios"
+        "Frontend - JavaScript / React / Redux / Axios"
       ],
       "keywords": [
       ],
@@ -194,18 +182,17 @@
       "type": " web application"
     },
     {
-      "name": "Feeble Minded Football",
-      "description": "Fantasy football league blog",
+      "name": "Fantasy football league blog",
+      "description": "Experiment for toying with fantasy league data analytics using Python, Jupyter Notebooks, NumPy and Seaborn",
       "highlights": [
-        "Bootcamp capstone project",
-        "Backend - TypeScript / Node / mySQL / Express / Docker",
-        "frontend - JavaScript / React / Redux / Axios"
+        "Frontend - JavaScript / React / Next.JS",
+        "Content managed with Sanity.io"
       ],
       "keywords": [
       ],
       "startDate": "",
       "endDate": "",
-      "url": "https://bit.ly/ABQToolshed",
+      "url": "",
       "roles": [
         "Team lead",
         "Designer"
