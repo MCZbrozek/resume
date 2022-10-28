@@ -6,4 +6,4 @@
 Based on instructions from my mentor Nomaan Agharian (https://nomaan.me/posts/autopilot-for-your-resume/).
 The repo also includes a GitHub action that deploys the document to a Netlify Site (). PDF version of this resume is available at ().
 
-==Thank you for visiting==
+### Thank you for visiting

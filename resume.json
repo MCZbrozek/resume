@@ -86,7 +86,7 @@
       "url": "https://deepdivecoding.com/fullstack-web-development/",
       "area": "JavaScript / React / Node / mySQL",
       "studyType": "Bootcamp",
-      "startDate": "2022-01",
+      "startDate": "",
       "endDate": "2022-03",
       "score": "",
       "courses": [
@@ -153,15 +153,16 @@
     {
       "name": "Ultra Distance Running",
       "keywords": [
-        "Ferrets",
-        "Unicorns"
       ]
     },
     {
-      "name": "Ultra Distance Running",
+      "name": "Cycling",
       "keywords": [
-        "Ferrets",
-        "Unicorns"
+      ]
+    },
+    {
+      "name": "Community Development",
+      "keywords": [
       ]
     }
   ],
