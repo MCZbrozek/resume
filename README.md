@@ -6,4 +6,4 @@
 Based on instructions from my mentor Nomaan Agharian (https://nomaan.me/posts/autopilot-for-your-resume/).
 The repo also includes a GitHub action that deploys the document to a Netlify Site (resume.mikezbrozek.codes). PDF version of this resume is available at (https://resume.mikezbrozek.codes/zbrozek-mike-resume.pdf).
 
-### Thank you for visiting
+### Thank you for visiting, hava great day
