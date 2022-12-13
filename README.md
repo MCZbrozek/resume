@@ -7,5 +7,6 @@ Based on instructions from my mentor Nomaan Agharian (https://nomaan.me/posts/au
 The repo also includes a GitHub action that deploys the document to a Netlify Site (resume.mikezbrozek.codes). PDF version of this resume is available at (https://resume.mikezbrozek.codes/zbrozek-mike-resume.pdf).
 
 Updates can be tested using the command `resume serve --theme macchiato-ibic`
+Theme (https://www.npmjs.com/package/jsonresume-theme-macchiato-ibic).
 
 ### Thank you for visiting, hava great day
