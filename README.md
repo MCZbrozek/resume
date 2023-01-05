@@ -9,4 +9,4 @@ The repo also includes a GitHub action that deploys the document to a Netlify Si
 Updates can be tested using the command `resume serve --theme macchiato-ibic`
 Theme (https://www.npmjs.com/package/jsonresume-theme-macchiato-ibic).
 
-### Thank you for visiting, hava great day
+### Thank you for visiting, have a great day

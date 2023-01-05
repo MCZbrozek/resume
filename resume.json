@@ -48,7 +48,7 @@
         "Learned CI best practices, using Canary testing on production data, merged/deployed code from continuous integration application, “Butler”.",
         "Created API endpoints for video uploads, enabling advertising partner engagement.",
         "Reduced application bundle sizes through publication of an NPM formatters package.",
-        "Used Agile methodology combined with Jira, GitHub, and FigJam to collaborate with geographically diverse scrum teams."
+        "Used agile methodology combined with Jira, GitHub, and FigJam to collaborate with geographically diverse scrum teams."
       ]
     },
     {
@@ -102,9 +102,9 @@
     {
       "institution": "Deep Dive Coding - CNM Ingenuity",
       "url": "https://deepdivecoding.com/fullstack-web-development/",
-      "area": "JavaScript / React / Node / mySQL",
+      "area": "JavaScript / React / Node / MySQL",
       "studyType": "400-hour, project focused, web development boot camp simulating the SDLC (Software Development Life Cycle). ", 
-      "startDate": "",
+      "startDate": "2022-01",
       "endDate": "2022-03",
       "score": "",
       "courses": [
@@ -115,7 +115,7 @@
       "url": "",
       "area": "Geology",
       "studyType": "Bachelors",
-      "startDate": "",
+      "startDate": "2008-06",
       "endDate": "2011-12",
       "score": "",
       "courses": [
@@ -126,7 +126,7 @@
   "skills": [
     {
       "name": "Front end",
-      "level": "Junior",
+      "level": "",
       "keywords": [
          "JavaScript",
          "TypeScript",
@@ -138,12 +138,12 @@
     },
     {
       "name": "Back end",
-      "level": "Junior",
+      "level": "",
       "keywords": [
         "Node.js",
-        "Ruby on Rails",
         "Express",
-        "mySQL / PostgreSQL",
+        "Ruby on Rails",
+        "MySQL / PostgreSQL",
         "Python",
         "Docker"
       ]
@@ -184,7 +184,7 @@
       "description": "Peer to peer tool lending",
       "highlights": [
         "Bootcamp capstone project",
-        "Backend - TypeScript / Node / mySQL / Express / Docker",
+        "Backend - TypeScript / Node / MySQL / Express / Docker",
         "Frontend - JavaScript / React / Redux / Axios"
       ],
       "keywords": [
