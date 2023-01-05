@@ -25,11 +25,6 @@
         "network": "Github",
         "username": "Michael Zbrozek",
         "url": "https://github.com/MCZbrozek"
-      },
-      {
-        "network": "Globe",
-        "username": "MikeZbrozek.com",
-        "url": "https://www.MikeZbrozek.com"
       }
     ]
   },
@@ -44,11 +39,10 @@
       "endDate": "2022-09",
       "summary": "Summer internship focused on page migration with React, and API development with Ruby on Rails.",
       "highlights": [
-        "Removed ~7,000 lines of legacy code by migrating web pages to a micro-frontend architecture.",
+        "Created React micro-frontend components to interface with a content management system.",
         "Learned CI best practices, using Canary testing on production data, merged/deployed code from continuous integration application, “Butler”.",
-        "Created API endpoints for video uploads, enabling advertising partner engagement.",
-        "Reduced application bundle sizes through publication of an NPM formatters package.",
-        "Used agile methodology combined with Jira, GitHub, and FigJam to collaborate with geographically diverse scrum teams."
+        "Published language formatters into React hooks package with NPM to reduce app bundle sizes.",
+        "Designed API endpoints with Ruby on Rails to support partner media and increase engagement in the Strava activity feed."
       ]
     },
     {
@@ -59,20 +53,8 @@
       "url": "",
       "startDate": "2022-04",
       "endDate": "",
-      "summary": "",
-      "highlights": ["Provided tutoring and technical support for over 25 student web applications built with React, Node, and PostgreSQL.", "Contributed technical presentations, mock interview support and in class assistance for students."
-      ]
-    },
-    {
-      "name": "Daniel B. Stephens & Assoc.",
-      "location": "Albuquerque, NM",
-      "description": "Microsoft Excel / Microsoft Access / SQL / ArcMap GIS / Technical Writing / Data Analysis",
-      "position": "Staff Geologist",
-      "url": "",
-      "startDate": "2015-06",
-      "endDate": "2021-12",
-      "summary": "Environmental compliance and ground water monitoring support",
-      "highlights": ["Managed groundwater chemistry databases, using Microsoft Access & Excel.", "Prioritized tasks and organized operations for field teams, managed changes in project scope and developed contingency plans.", "Interpreted data and summarized findings for regulatory reports.","Planned curriculum for New Mexico water system operator certification."
+      "summary": " Provide tutoring support to current bootcamp students to create web based applications with React, Node, Express and PostgreSQL.",
+      "highlights": [
       ]
     }
   ],
@@ -83,7 +65,7 @@
       "url": "https://gdg.community.dev/gdg-albuquerque/",
       "startDate": "2022-09",
       "endDate": "",
-      "summary": "Focused on unifying developer groups by building partnerships with local businesses, programming workshops and organizing social gatherings for developers in Albuquerque.",
+      "summary": "Unifying the Albuquerque developer community by building partnerships with local businesses, organizing technical presentations and social gatherings for developers in Albuquerque.",
       "highlights": [
       ]
     },
@@ -93,7 +75,7 @@
       "url": "",
       "startDate": "2022-04",
       "endDate": "",
-      "summary": "Assists in organizing networking, educational and outreach opportunities for Deep Dive graduates and local employers.",
+      "summary": "Organize community events to promote networking opportunities for bootcamp graduates.",
       "highlights": [
       ]
     }
@@ -102,9 +84,9 @@
     {
       "institution": "Deep Dive Coding - CNM Ingenuity",
       "url": "https://deepdivecoding.com/fullstack-web-development/",
-      "area": "JavaScript / React / Node / MySQL",
-      "studyType": "400-hour, project focused, web development boot camp simulating the SDLC (Software Development Life Cycle). ", 
-      "startDate": "2022-01",
+      "area": "JavaScript / React / Node / mySQL",
+      "studyType": "400 Hour, fully remote Bootcamp",
+      "startDate": "",
       "endDate": "2022-03",
       "score": "",
       "courses": [
@@ -115,7 +97,7 @@
       "url": "",
       "area": "Geology",
       "studyType": "Bachelors",
-      "startDate": "2008-06",
+      "startDate": "",
       "endDate": "2011-12",
       "score": "",
       "courses": [
@@ -126,7 +108,7 @@
   "skills": [
     {
       "name": "Front end",
-      "level": "",
+      "level": "Junior",
       "keywords": [
          "JavaScript",
          "TypeScript",
@@ -138,12 +120,12 @@
     },
     {
       "name": "Back end",
-      "level": "",
+      "level": "Junior",
       "keywords": [
         "Node.js",
-        "Express",
         "Ruby on Rails",
-        "MySQL / PostgreSQL",
+        "Express",
+        "mySQL / PostgreSQL",
         "Python",
         "Docker"
       ]
@@ -184,7 +166,7 @@
       "description": "Peer to peer tool lending",
       "highlights": [
         "Bootcamp capstone project",
-        "Backend - TypeScript / Node / MySQL / Express / Docker",
+        "Backend - TypeScript / Node / mySQL / Express / Docker",
         "Frontend - JavaScript / React / Redux / Axios"
       ],
       "keywords": [
